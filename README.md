@@ -19,3 +19,21 @@
 [![](https://visitcount.itsvg.in/api?id=wiskaxd&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img height="200" src="https://media.tenor.com/h7CZbik22-UAAAAM/satoru-satoru-gojo.gif"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wiskaxd/wiskaxd/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wiskaxd/wiskaxd/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wiskaxd/wiskaxd/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/wiskaxd/wiskaxd/output/snake.svg" alt="Snake animation" />
+
+###
